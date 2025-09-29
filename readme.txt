@@ -1,8 +1,3 @@
- ==============
-  Fork details
- ==============
-
-  This fork replaces dead links leading to Error 404 with supported mirrors
 
  ====================
   What does this do?
