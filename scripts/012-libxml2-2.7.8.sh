@@ -2,7 +2,7 @@
 # libxml2-2.7.8.sh by Naomi Peori (naomi@peori.ca)
 
 ## Download the source code.
-wget --continue https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.7.8/libxml2-v2.7.8.tar.bz2
+wget --continue https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.7.8/libxml2-v2.7.8.tar.gz
 
 ## Download an up-to-date config.guess and config.sub
 if [ ! -f config.guess ]; then wget --continue http://git.savannah.gnu.org/cgit/config.git/plain/config.guess; fi
